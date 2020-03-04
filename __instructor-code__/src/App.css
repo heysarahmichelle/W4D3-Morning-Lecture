@@ -1,0 +1,13 @@
+.main-header {
+  height: 150px;
+  background-color: royalblue;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+}
+
+.header-logo {
+  height: 125px;
+}

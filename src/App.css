@@ -1,0 +1,33 @@
+.main-header {
+  height: 200px;
+  background-color: #4a7a95;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 0 20px;
+} 
+
+.header-links {
+  display: flex;
+  width: 15%;
+  box-sizing: border-box;
+  justify-content: space-between
+}
+
+span {
+  font-size: 20px;
+  font-family: 'Courier New', Courier, monospace;
+}
+.dropdown-toggle {
+  display: initial;
+  padding-left: 650px;
+  top: 200px;
+}
+.mobile-links {
+  height: 150px;
+  width: 150px;
+  position: fixed;
+  right: 0px;
+  top: 200px;
+}
